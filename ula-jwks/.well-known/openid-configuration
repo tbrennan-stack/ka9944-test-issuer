@@ -1,0 +1,14 @@
+{
+  "issuer": "https://raw.githubusercontent.com/tbrennan-stack/ka9944-test-issuer/main/ula-jwks",
+  "jwks_uri": "https://fd00--1.sslip.io/jwks.json",
+  "response_types_supported": [
+    "id_token"
+  ],
+  "subject_types_supported": [
+    "public"
+  ],
+  "id_token_signing_alg_values_supported": [
+    "RS256",
+    "ES256"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "issuer": "https://raw.githubusercontent.com/tbrennan-stack/ka9944-test-issuer/main/http-jwks",
+  "jwks_uri": "http://raw.githubusercontent.com/tbrennan-stack/ka9944-test-issuer/main/jwks.json",
+  "response_types_supported": [
+    "id_token"
+  ],
+  "subject_types_supported": [
+    "public"
+  ],
+  "id_token_signing_alg_values_supported": [
+    "RS256",
+    "ES256"
+  ]
+}

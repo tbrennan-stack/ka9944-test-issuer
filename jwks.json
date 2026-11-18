@@ -1,0 +1,27 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "ka9944-rsa",
+      "use": "sig",
+      "n": "tTYXrGlIkU4vmNuX7FlPGcPd8gHopD1PzGM8wD86GA0xeAHjJlBEN_3z58YHocmk2UWdDjTai06vRHWt0T4NLaL_vpLuTW9i-aAeFazrp3ShlZcQcvnsauF9WFXLxvBmcsrq8VLWU-ZnDGQ2wTzZ9nl5WPwgatQHUxWpTBzwLeeput69w5-6WmRjUi5HMfvPefFhDHcGcmqE39TD_LLGwN6Li9iq1hBw8PgnFAGo-6kfHWIc3-WTH8ss-HK-zo0DiCB70pgaq8NJrqDSIy-p_9KbdvNTyJBNEU7dtdkEYssQbybDvNjiXsDPY_nKuQm7UUbzDR1Vs-GtUZgJOmCesQ",
+      "e": "AQAB"
+    },
+    {
+      "kty": "EC",
+      "kid": "ka9944-ec",
+      "use": "sig",
+      "crv": "P-256",
+      "x": "4tFtOII3yh5J1mq36zkmAFTpt3BwLyAfS1oQ-IFdPoo",
+      "y": "YGUQLpUHWwZE1-9uz2r70ZCb7h9HvG3iVAb14bphbWw"
+    },
+    {
+      "kty": "EC",
+      "kid": "ka9944-ec384",
+      "use": "sig",
+      "crv": "P-384",
+      "x": "mLijByh6HlDk_CK2sUm-A_1vnF_LpZcGrtuX7CKQ-BQtoW9yv_yb_HsKhgpmO3q7",
+      "y": "HdbM1C1M8Ahrl1cKXNsEMvXs8ypuEBtoDTfWZJjgZZ2Fhm6bDvl2hxzsyaqismV6"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "ka9944-attacker",
+      "use": "sig",
+      "n": "wXJjOrGoisKvio34bcFYPBfu5ohXJYVMFH1lmudxZTpAbUkS0r_0ujvjWNlf8ZQwq72f7Jt_aSE8dDOhPO5R0PW9bVZ4x_gA3g-U-wrWzPdzxbEcI_foRq3A3EVhlcmIYgGd-USxmdBNJycZ59Ji6PEfcOgWEeqeaufBGQPkXQa-auEw7MU1HS7yYWd8O0SOANeOTSSHhhY5y_EhE3bARHteey3_jv8vL5NzfJuW7DBeQ8v4SFYCQpVbbHHAuRYv2S9JMTGltiqZ1PUV0gYrZyQ15j5Xs3lRx32VxNM-sawRGnNI_khfOgmPmCGIKfHRDFESjS48Teo7c_SN2Ht4yQ",
+      "e": "AQAB"
+    }
+  ]
+}
