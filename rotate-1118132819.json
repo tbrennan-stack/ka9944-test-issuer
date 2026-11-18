@@ -2,13 +2,6 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "ka9944-rot1",
-      "use": "sig",
-      "n": "0pRYt-jyGPXk9C2xEwjQrd_-2udcgqMpHo8d1D_II3o38YE42L0-wqRzwFK4ovHORJFTQtxoT8OOUvrVJp_d9cuTDIcUy7cG-q_bcEEeCg18Dd77yOeaNZ9bIXi8DLsA7TUM21pjfhVo8HUniwgCYS7MuIPVmZczfMChjwMSvbtawpAoVzZ2d8rt_XZfndvQZ8n1XLSDQWeQXepBKVqck7H7lbq7unaQX3IstXhhaXaJ3njXhe5rrhW56gPxTZjNhAM2LzXU7ZdP8daWs9OhIK3OyU20_qug6IjhHkF_wBzML_T6zC-7DwGofgRl8M1Xd5tHJcX5gKI07N7mRzu9nw",
-      "e": "AQAB"
-    },
-    {
-      "kty": "RSA",
       "kid": "ka9944-rot2",
       "use": "sig",
       "n": "vltay6kUkU9U3CyVXiHl0orHmlqbWjhNkAJM1EPIy8dkRgztlqzHkrBtvwSPToMOz_A_UrOkqH8anBURMZwCmE3v_ZjnDRn3ZI6E_HgeJjUhqjHrCP1D-VTlRfPYG-ds8eWi8YR-32VrHlhqJOklUNXbg03PtCxgLtJ7O9WuvpSPQWyInaB9raE1UIdmvj5XjkRVavimJ_aDL8gzAv6Xvsb2oG2qcyCwKS4vHYW2l4shdb1o61TPgKssVjK8Nk0_-2XZymT-IPIA8ApZcKIbrNMbcsz_w0-d5mXzQrGkUww2EIaoY4f4hdTCIgARmDlmB-8H4Mb1PFBBVV29srFL_Q",
