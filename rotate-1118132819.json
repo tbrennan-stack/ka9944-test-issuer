@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "ka9944-rot1",
+      "use": "sig",
+      "n": "0pRYt-jyGPXk9C2xEwjQrd_-2udcgqMpHo8d1D_II3o38YE42L0-wqRzwFK4ovHORJFTQtxoT8OOUvrVJp_d9cuTDIcUy7cG-q_bcEEeCg18Dd77yOeaNZ9bIXi8DLsA7TUM21pjfhVo8HUniwgCYS7MuIPVmZczfMChjwMSvbtawpAoVzZ2d8rt_XZfndvQZ8n1XLSDQWeQXepBKVqck7H7lbq7unaQX3IstXhhaXaJ3njXhe5rrhW56gPxTZjNhAM2LzXU7ZdP8daWs9OhIK3OyU20_qug6IjhHkF_wBzML_T6zC-7DwGofgRl8M1Xd5tHJcX5gKI07N7mRzu9nw",
+      "e": "AQAB"
+    }
+  ]
+}
